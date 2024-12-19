@@ -1,2 +1,18 @@
 # PowerBI_Dashboards
-Diferentes dashboards realizados en PowerBI.
+Diferentes dashboards realizados en PowerBI:
+
+Dashboard de Sostenibilidad: https://app.powerbi.com/view?r=eyJrIjoiZTFjMGQ4YmEtOGQwYi00NWRlLThhODgtNWEyZGQ1ZmE2ZGY4IiwidCI6IjMyMjVhMTAzLWI4MDQtNGNmYS1hM2Q3LTc4OTZjZDIxYTY4ZiIsImMiOjR9
+
+Dashboard de Inteligencia Comercial: https://app.powerbi.com/view?r=eyJrIjoiYjk3OWMyNzgtNDNhNC00Mzg2LTgzMmQtYjMzZjBhMzE2MGE5IiwidCI6IjMyMjVhMTAzLWI4MDQtNGNmYS1hM2Q3LTc4OTZjZDIxYTY4ZiIsImMiOjR9
+
+Dashboard de Energia: https://app.powerbi.com/view?r=eyJrIjoiMjcxY2ViM2MtYjRjZS00ODJhLTkzMjEtZjcyN2VkNjdhZmNlIiwidCI6IjMyMjVhMTAzLWI4MDQtNGNmYS1hM2Q3LTc4OTZjZDIxYTY4ZiIsImMiOjR9
+
+Dashboard de Mantenimiento: https://app.powerbi.com/view?r=eyJrIjoiYjM0NWFjMjgtOGVhMy00MDkyLWJhODQtMzFkZmYzMGY4MGY5IiwidCI6IjMyMjVhMTAzLWI4MDQtNGNmYS1hM2Q3LTc4OTZjZDIxYTY4ZiIsImMiOjR9
+
+
+
+
+
+
+
+
